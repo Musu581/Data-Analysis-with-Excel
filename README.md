@@ -7,7 +7,7 @@ The project is designed for beginners to understand how Excel can be used as a p
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * To clean and preprocess raw data
 * To perform exploratory data analysis (EDA)
@@ -17,7 +17,7 @@ The project is designed for beginners to understand how Excel can be used as a p
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Microsoft Excel**
 * Pivot Tables & Pivot Charts
@@ -28,11 +28,11 @@ The project is designed for beginners to understand how Excel can be used as a p
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset used in this project contains structured data with multiple attributes.
 
-### 🔹 Features may include:
+###  Features may include:
 
 * Category / Product
 * Sales / Revenue
@@ -44,7 +44,7 @@ The dataset is used to analyze performance, trends, and comparisons across diffe
 
 ---
 
-## 🔄 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 The following steps were performed to prepare the data:
 
@@ -56,7 +56,7 @@ The following steps were performed to prepare the data:
 
 ---
 
-## 📊 Data Analysis Techniques
+##  Data Analysis Techniques
 
 * **Sorting & Filtering** to explore data
 * **Pivot Tables** for summarizing large datasets
@@ -66,7 +66,7 @@ The following steps were performed to prepare the data:
 
 ---
 
-## 📈 Data Visualization
+##  Data Visualization
 
 Different types of charts were used:
 
@@ -78,7 +78,7 @@ These visualizations help in better understanding of the data.
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * Identified top-performing categories/products
 * Observed sales trends over time
@@ -87,14 +87,14 @@ These visualizations help in better understanding of the data.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 * `beginner-data-analysis-dataset.xlsx` → Raw and processed dataset
 * `README.md` → Project documentation
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 1. Clone or download this repository
 2. Open the Excel file
@@ -106,7 +106,7 @@ These visualizations help in better understanding of the data.
 
 ---
 
-## 🌟 Key Learnings
+##  Key Learnings
 
 * Hands-on experience with Excel for data analysis
 * Improved understanding of data cleaning techniques
@@ -115,7 +115,7 @@ These visualizations help in better understanding of the data.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add interactive dashboard
 * Automate analysis using advanced Excel tools
@@ -123,11 +123,11 @@ These visualizations help in better understanding of the data.
 
 ---
 
-## 📌 Author
+##  Author
 
 **Muskan Kumari**
 🎓 B.Tech CSE
-📊 Aspiring Data Analyst
-💻 Skilled in Python | SQL | Excel | Power BI
+ Aspiring Data Analyst
+ Skilled in Python | SQL | Excel | Power BI
 
 ---
