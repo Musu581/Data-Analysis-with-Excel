@@ -126,8 +126,8 @@ These visualizations help in better understanding of the data.
 ##  Author
 
 **Muskan Kumari**
-🎓 B.Tech CSE
- Aspiring Data Analyst
- Skilled in Python | SQL | Excel | Power BI
+*🎓 B.Tech CSE
+*Aspiring Data Analyst
+*Skilled in Python | SQL | Excel | Power BI
 
 ---
